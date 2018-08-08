@@ -1,0 +1,9 @@
+<person>
+<first-name>John Doe</first-name>
+<last-name>John Doe</last-name>
+<address> 
+<line1>A House</line1>
+<line2>A Street</line2>
+<line3>A Country</line3>
+</address>
+</person>
